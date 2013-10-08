@@ -44,10 +44,10 @@ background: none !important;
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("http://ec2-184-73-136-121.compute-1.amazonaws.com/sites/default/files/control_panel/demo/img/btg-logo.jpg") 0 0 no-repeat;
+    background: url("http://ec2-50-17-88-42.compute-1.amazonaws.com:8080/userContent/btg-ci-theme/es3-logo.png") 0 0 no-repeat;
     display: block;
-    width: 252px;
-    height: 68px;
+    width: 648px;
+    height: 65px;
     margin: 10px 0 10px 10px; }
     #top-panel td > a img {
       display: none; }
