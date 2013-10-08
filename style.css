@@ -52,6 +52,10 @@ background: none !important;
     #top-panel td > a img {
       display: none; }
 
+      #login-field a {
+       color: #3F7572;
+      }
+
 #projectstatus {
   background: #fff; }
   #projectstatus tr:nth-of-type(odd) {
